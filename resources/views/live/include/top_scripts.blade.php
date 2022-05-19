@@ -1,0 +1,13 @@
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/bootstrap.min.css')}}" media="all" />
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/elegant-icons.min.css')}}" media="all" />
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/all.min.css')}}" media="all" />
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/animate.css')}}" media="all" />
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/slick.css')}}" media="all" />
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/slick-theme.css')}}" media="all" />
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/nice-select.css')}}" media="all" />
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/animate.css')}}" media="all" />
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/jquery.fancybox.min.css')}}" media="all" />
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/nouislider.min.css')}}" media="all" />
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/default.css')}}" media="all" />
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/style.css')}}" media="all" />
+<link rel="stylesheet" type="text/css" href="{{asset('dist/css/responsive.css')}}" media="all" />

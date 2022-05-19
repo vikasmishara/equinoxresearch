@@ -1,0 +1,14 @@
+<script type="text/javascript" src="{{asset('dist/js/jquery-3.6.0.min.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/preloader.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/bootstrap.bundle.min.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/jquery.smoothscroll.min.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/jquery.nice-select.min.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/jquery.fancybox.min.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/slick.min.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/nouislider.min.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/wNumb.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/parallax.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/jquery.parallax-scroll.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/wow.min.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/custom.js')}}"></script>
+<script type="text/javascript" src="{{asset('dist/js/jquery.counterup.min.js')}}"></script>
