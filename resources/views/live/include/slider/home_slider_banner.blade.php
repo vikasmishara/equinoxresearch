@@ -20,9 +20,9 @@
                     <h1 class="wow fadeInUp" data-wow-delay="0.1s">Introducing EQUINOX Research &amp; Advisors
                       </h1><h3 style="color: white">  A Real Time Market Data Company</h3>
 
-                    <a href="loan.html"
+                    <a href="{{route('live.pages.about_us')}}"
                        class="wow fadeInUp mt-50 theme-btn theme-btn-rounded-2 theme-btn-lg theme-btn-alt"
-                       data-wow-delay="0.3s">Apply Now
+                       data-wow-delay="0.3s">Know More
                         <i class="arrow_right"></i></a>
                 </div>
             </div>

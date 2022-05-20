@@ -11,9 +11,6 @@
                             <p>At Equinox Research, we're using cutting-edge technology to transform the industry and deliver
                                 financial services that actually work for you.</p>
                         </div>
-                        <div class="truspilot mt-40">
-                            <img src="{{asset('dist/img/footer/Trustpilot.png')}}" alt="Trustpilot">
-                        </div>
                     </div>
                 </div>
 
@@ -34,23 +31,6 @@
 
                 </div>
 
-
-
-                {{--<div class="col-lg-3  col-sm-6 text-center text-sm-start">
-                    <div class="footer-widget mb-30 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="f-widget-title">
-                            <h5>product</h5>
-                        </div>
-                        <div class="footer-link">
-                            <ul>
-                                <li><a href="#"> Business Loans | Main</a></li>
-                                <li><a href="#"> Loan Calculator</a></li>
-                                <li><a href="#"> Refer a Friend</a></li>
-                                <li><a href="#"> Partner Program</a></li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>--}}
 
                 <div class="col-lg-2  col-sm-6 text-center text-sm-start">
                     <div class="footer-widget mb-30 wow fadeInUp" data-wow-delay="0.5s">
@@ -87,18 +67,16 @@
                         </div>
                         <div class="col-md-4">
                             <div class="social-button text-center">
-                                <a class="ms-0" href="#"><i class="fab fa-facebook-f"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                                <a class="me-0" href="#"><i class="fab fa-linkedin-in"></i></a>
+                                <a class="ms-0" href="https://www.facebook.com/EquinoxInvestmentandResearch" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                <a href="https://wa.me/918308266666?text=Hello%2C+How+can+we+help+you"><i class="fab fa-whatsapp"></i></a>
+                                <a class="me-0" href="https://www.instagram.com/equinoxresearch/" target="_blank"><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="row">
                         <div class="copyright-text text-md-start text-center">
-                            <p>Copyright&copy; Equinox Research 2022.<br class="d-sm-none"> <a class="ms-3"
-                                                                                    href="#">Privacy</a> | <a class="ms-0" href="#">Term
-                                    of Use</a> </p>
+                            <p>Copyright&copy; Equinox Research 2022.<br class="d-sm-none">
+                                <a class="ms-3" href="#">Privacy</a> | <a class="ms-0" href="#">Term of Use</a>  | Developed by OneWrap Digital Solutions</p>
                         </div>
                     </div>
                 </div>

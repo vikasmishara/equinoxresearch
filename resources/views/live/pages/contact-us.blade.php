@@ -149,7 +149,7 @@
     <!-- Get In Touch end -->
 
     <!-- need more help start -->
-    <section class="pt-125 pb-140 bg_disable">
+  {{--  <section class="pt-125 pb-140 bg_disable">
         <div class="container">
             <div class="row ">
                 <div class="col-md-8 mx-auto">
@@ -190,11 +190,11 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>--}}
     <!-- need more help end -->
 
     <!-- Frequently Asked Question start -->
-    <section class="faq-area-2 pt-125 pb-200 bg_white">
+    <section class="faq-area-2 pt-125 pb-200 bg_disable">
         <div class="container">
             <div class="section-title">
                 <h2 class="wow fadeInUp">Frequently asked questions</h2>

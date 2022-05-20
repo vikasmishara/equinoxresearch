@@ -23,7 +23,7 @@
 <main>
 
     <!-- banner section -->
-@include('live.include.slider.home_slider_banner_two')
+@include('live.include.slider.home_slider_banner')
     <!-- banner section end-->
 
     <!-- marketplace logo section start-->

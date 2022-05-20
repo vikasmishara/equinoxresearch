@@ -28,10 +28,9 @@
                 <div class="col-xl-6 col-lg-8">
                     <div class="banner-content py-5">
                         <div class="section-title text-start">
-                            <span class="short-title wow fadeInUp">ABOUT US</span>
+                            <span class="short-title wow fadeInUp" style="color: #ffffff;">ABOUT US</span>
 
-                            <h1 class="wow fadeInUp mb-0" data-wow-delay='0.2s' style="color: white">Believing, banking
-                                and achieving
+                            <h1 class="wow fadeInUp mb-0" data-wow-delay='0.2s' style="color: white">Equinox Research for, achieving
                                 different</h1>
                         </div>
                         <a class="theme-btn-2 theme-btn-primary mt-45 wow fadeInUp" data-wow-delay="0.4s" href="{{route('live.pages.services')}}"
@@ -328,7 +327,7 @@
     <!-- Leadership Team end -->
 
     <!-- Call To Action start -->
-    <section class="cta-area-2 pt-80 pb-80">
+  {{--  <section class="cta-area-2 pt-80 pb-80">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
@@ -345,7 +344,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section>--}}
     <!-- Call To Action end -->
 </main>
 
